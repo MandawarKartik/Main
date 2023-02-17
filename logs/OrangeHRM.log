@@ -1,0 +1,396 @@
+2022-11-06 13:54:17,066 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-06 13:54:17,070 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-06 13:54:17,071 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-06 13:54:23,740 - OrangeHRMAutomation -INFO - User lanuchs chrome browser
+2022-11-06 13:54:23,755 - OrangeHRMAutomation -INFO - Getting application URL- https://opensource-demo.orangehrmlive.com/
+2022-11-06 13:54:39,972 - OrangeHRMAutomation -INFO - Logging in application using Admin as an username and admin123 as a password
+2022-11-06 13:54:40,202 - OrangeHRMAutomation -INFO - Clicked on Login Button
+2022-11-06 13:54:48,051 - OrangeHRMAutomation -INFO - Successfully validated the Page Tile: OrangeHRM
+2022-11-06 13:56:33,501 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-06 13:56:33,505 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-06 13:56:33,505 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-06 13:56:38,409 - OrangeHRMAutomation -INFO - User lanuchs chrome browser
+2022-11-06 13:56:38,416 - OrangeHRMAutomation -INFO - Getting application URL- https://opensource-demo.orangehrmlive.com/
+2022-11-06 13:56:48,251 - OrangeHRMAutomation -INFO - Logging in application using Admin as an username and admin123 as a password
+2022-11-06 13:56:48,340 - OrangeHRMAutomation -INFO - Clicked on Login Button
+2022-11-06 13:56:49,898 - OrangeHRMAutomation -INFO - Successfully validated the Page Tile: OrangeHRM
+2022-11-06 14:08:01,709 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-06 14:08:01,713 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-06 14:08:01,714 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-06 14:08:07,082 - OrangeHRMAutomation -INFO - User lanuchs chrome browser
+2022-11-06 14:08:07,089 - OrangeHRMAutomation -INFO - Getting application URL- https://opensource-demo.orangehrmlive.com/
+2022-11-06 14:08:12,986 - OrangeHRMAutomation -INFO - Logging in application using Admin as an username and admin123 as a password
+2022-11-06 14:08:13,115 - OrangeHRMAutomation -INFO - Clicked on Login Button
+2022-11-06 14:08:15,578 - OrangeHRMAutomation -INFO - Successfully validated the Page Tile: OrangeHRM
+2022-11-06 14:08:16,522 - OrangeHRMAutomation -INFO - User clicked on My Profile icon
+2022-11-06 14:08:18,119 - OrangeHRMAutomation -INFO - logging out of an Application
+2022-11-06 14:08:19,377 - OrangeHRMAutomation -INFO - Closing browser
+2022-11-06 15:44:04,680 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-06 15:44:04,685 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-06 15:44:04,685 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-06 15:44:09,719 - OrangeHRMAutomation -INFO - User lanuchs chrome browser
+2022-11-06 15:44:09,732 - OrangeHRMAutomation -INFO - Getting application URL- https://opensource-demo.orangehrmlive.com/
+2022-11-06 15:44:16,400 - OrangeHRMAutomation -INFO - Logging in application using Admin as an username and admin123 as a password
+2022-11-06 15:44:16,550 - OrangeHRMAutomation -INFO - Clicked on Login Button
+2022-11-06 15:44:17,718 - OrangeHRMAutomation -INFO - Successfully validated the Page Tile: OrangeHRM
+2022-11-06 15:44:18,162 - OrangeHRMAutomation -INFO - User clicked on My Profile icon
+2022-11-06 15:44:19,742 - OrangeHRMAutomation -INFO - logging out of an Application
+2022-11-06 15:44:36,023 - OrangeHRMAutomation -INFO - Closing browser
+2022-11-06 16:16:16,047 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-06 16:16:16,051 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-06 16:16:16,052 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-06 16:16:20,814 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-06 16:16:20,815 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-06 16:16:20,815 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-06 16:20:16,328 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-06 16:20:16,333 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-06 16:20:16,333 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-06 16:25:10,651 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-06 16:25:10,657 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-06 16:25:10,658 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-06 16:33:24,442 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-06 16:33:24,446 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-06 16:33:24,446 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-06 16:33:36,217 - OrangeHRMAutomation -INFO - Launchied an application Url: using https://www.amazon.in/
+2022-11-06 16:36:43,172 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-06 16:36:43,177 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-06 16:36:43,177 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-06 16:36:57,223 - OrangeHRMAutomation -INFO - Launchied an application Url: using https://www.amazon.in/
+2022-11-06 16:37:01,543 - OrangeHRMAutomation -INFO - Click on SignIn
+2022-11-06 16:37:01,593 - OrangeHRMAutomation -INFO - Sign In Page displayed
+2022-11-06 16:37:01,696 - OrangeHRMAutomation -INFO - User enterd user name as  : 7093348874
+2022-11-06 16:37:02,652 - OrangeHRMAutomation -INFO - User clicked on Continue button
+2022-11-06 16:37:02,723 - OrangeHRMAutomation -INFO - User enterd Password as  : Jagan@007
+2022-11-06 16:39:31,390 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-06 16:39:31,440 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-06 16:39:31,440 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-06 16:39:39,833 - OrangeHRMAutomation -INFO - Launchied an application Url: using https://www.amazon.in/
+2022-11-06 16:39:42,448 - OrangeHRMAutomation -INFO - Click on SignIn
+2022-11-06 16:39:42,485 - OrangeHRMAutomation -INFO - Sign In Page displayed
+2022-11-06 16:39:42,575 - OrangeHRMAutomation -INFO - User enterd user name as  : 7093348874
+2022-11-06 16:39:43,765 - OrangeHRMAutomation -INFO - User clicked on Continue button
+2022-11-06 16:39:43,835 - OrangeHRMAutomation -INFO - User enterd Password as  : Jagan@007
+2022-11-06 16:47:17,917 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-06 16:47:17,924 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-06 16:47:17,924 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-06 16:47:27,660 - OrangeHRMAutomation -INFO - Launchied an application Url: using https://www.amazon.in/
+2022-11-06 16:47:29,272 - OrangeHRMAutomation -INFO - Click on SignIn
+2022-11-06 16:47:29,375 - OrangeHRMAutomation -INFO - Sign In Page displayed
+2022-11-06 16:47:29,481 - OrangeHRMAutomation -INFO - User enterd user name as  : 7093348874
+2022-11-06 16:47:31,847 - OrangeHRMAutomation -INFO - User clicked on Continue button
+2022-11-06 16:47:31,921 - OrangeHRMAutomation -INFO - User enterd Password as  : Jagan@007
+2022-11-06 17:04:59,154 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-06 17:04:59,160 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-06 17:04:59,160 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-06 17:05:10,374 - OrangeHRMAutomation -INFO - Launchied an application Url: using https://www.amazon.in/
+2022-11-06 17:05:14,279 - OrangeHRMAutomation -INFO - Click on SignIn
+2022-11-06 17:05:14,381 - OrangeHRMAutomation -INFO - Sign In Page displayed
+2022-11-06 17:05:14,833 - OrangeHRMAutomation -INFO - User enterd user name as  : 7093348874
+2022-11-06 17:05:15,815 - OrangeHRMAutomation -INFO - User clicked on Continue button
+2022-11-06 17:05:15,925 - OrangeHRMAutomation -INFO - User enterd Password as  : Jagan@007
+2022-11-06 17:09:36,831 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-06 17:09:36,836 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-06 17:09:36,836 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-06 17:09:52,859 - OrangeHRMAutomation -INFO - Launchied an application Url: using https://www.amazon.in/
+2022-11-06 17:09:57,796 - OrangeHRMAutomation -INFO - Click on SignIn
+2022-11-06 17:09:57,938 - OrangeHRMAutomation -INFO - Sign In Page displayed
+2022-11-06 17:09:58,406 - OrangeHRMAutomation -INFO - User enterd user name as  : 7093348874
+2022-11-06 17:09:59,346 - OrangeHRMAutomation -INFO - User clicked on Continue button
+2022-11-06 17:09:59,427 - OrangeHRMAutomation -INFO - User enterd Password as  : Jagan@007
+2022-11-06 17:20:08,528 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-06 17:20:08,533 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-06 17:20:08,534 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-06 17:20:16,479 - OrangeHRMAutomation -INFO - Launchied an application Url: using https://www.amazon.in/
+2022-11-06 17:20:19,871 - OrangeHRMAutomation -INFO - Click on SignIn
+2022-11-06 17:20:20,069 - OrangeHRMAutomation -INFO - Sign In Page displayed
+2022-11-06 17:20:20,487 - OrangeHRMAutomation -INFO - User enterd user name as  : 7093348874
+2022-11-06 17:20:23,125 - OrangeHRMAutomation -INFO - User clicked on Continue button
+2022-11-06 17:20:23,212 - OrangeHRMAutomation -INFO - User enterd Password as  : Jagan@007
+2022-11-06 21:34:01,726 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-06 21:34:01,791 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-06 21:34:01,791 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-06 21:34:15,260 - OrangeHRMAutomation -INFO - Launched an application Url: using https://www.amazon.in/
+2022-11-06 21:34:18,577 - OrangeHRMAutomation -INFO - Click on SignIn
+2022-11-06 21:34:18,743 - OrangeHRMAutomation -INFO - Sign In Page displayed
+2022-11-06 21:34:18,872 - OrangeHRMAutomation -INFO - User enterd user name as  : 7093348874
+2022-11-06 21:34:20,613 - OrangeHRMAutomation -INFO - User clicked on Continue button
+2022-11-06 21:34:20,698 - OrangeHRMAutomation -INFO - User enterd Password as  : Jagan@007
+2022-11-07 12:07:58,597 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-07 12:07:58,623 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-07 12:07:58,623 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-07 12:08:05,887 - OrangeHRMAutomation -INFO - User lanuchs chrome browser
+2022-11-07 12:08:05,893 - OrangeHRMAutomation -INFO - Getting application URL- https://opensource-demo.orangehrmlive.com/
+2022-11-07 12:08:11,754 - OrangeHRMAutomation -INFO - Logging in application using Admin as an username and admin123 as a password
+2022-11-07 12:08:11,911 - OrangeHRMAutomation -INFO - Clicked on Login Button
+2022-11-07 12:08:13,793 - OrangeHRMAutomation -INFO - Successfully validated the Page Tile: OrangeHRM
+2022-11-07 12:08:14,610 - OrangeHRMAutomation -INFO - User clicked on My Profile icon
+2022-11-07 12:08:16,349 - OrangeHRMAutomation -INFO - logging out of an Application
+2022-11-07 12:08:16,628 - OrangeHRMAutomation -INFO - Closing browser
+2022-11-07 12:14:36,709 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-07 12:14:36,714 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-07 12:14:36,714 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-07 12:14:49,085 - OrangeHRMAutomation -INFO - Launched an application Url: using https://www.amazon.in/
+2022-11-07 12:14:51,253 - OrangeHRMAutomation -INFO - Click on SignIn
+2022-11-07 12:14:51,359 - OrangeHRMAutomation -INFO - Sign In Page displayed
+2022-11-07 12:14:51,465 - OrangeHRMAutomation -INFO - User enterd user name as  : 7093348874
+2022-11-07 12:14:52,402 - OrangeHRMAutomation -INFO - User clicked on Continue button
+2022-11-07 12:14:52,500 - OrangeHRMAutomation -INFO - User enterd Password as  : Jagan@007
+2022-11-07 12:21:31,388 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-07 12:21:31,395 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-07 12:21:31,395 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-07 12:21:31,494 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-07 12:21:31,502 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-07 12:21:31,503 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-07 12:21:46,686 - OrangeHRMAutomation -INFO - Launched an application Url: using https://www.amazon.in/
+2022-11-07 12:21:47,243 - OrangeHRMAutomation -INFO - Launched an application Url: using https://www.amazon.in/
+2022-11-07 12:21:50,048 - OrangeHRMAutomation -INFO - Click on SignIn
+2022-11-07 12:21:50,163 - OrangeHRMAutomation -INFO - Sign In Page displayed
+2022-11-07 12:21:50,289 - OrangeHRMAutomation -INFO - User enterd user name as  : 7093348874
+2022-11-07 12:21:52,597 - OrangeHRMAutomation -INFO - User clicked on Continue button
+2022-11-07 12:21:52,752 - OrangeHRMAutomation -INFO - User enterd Password as  : Jagan@007
+2022-11-07 12:21:52,793 - OrangeHRMAutomation -INFO - Click on SignIn
+2022-11-07 12:21:52,971 - OrangeHRMAutomation -INFO - Sign In Page displayed
+2022-11-07 12:21:53,148 - OrangeHRMAutomation -INFO - User enterd user name as  : 7093348874
+2022-11-07 12:21:54,381 - OrangeHRMAutomation -INFO - User clicked on Continue button
+2022-11-07 12:21:54,527 - OrangeHRMAutomation -INFO - User enterd Password as  : Jagan@007
+2022-11-07 13:12:54,657 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-07 13:12:54,661 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-07 13:12:54,662 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-07 13:13:08,939 - OrangeHRMAutomation -INFO - Launched an application Url: using https://www.amazon.in/
+2022-11-07 13:13:12,236 - OrangeHRMAutomation -INFO - Click on SignIn
+2022-11-07 13:13:12,359 - OrangeHRMAutomation -INFO - Sign In Page displayed
+2022-11-07 13:13:12,844 - OrangeHRMAutomation -INFO - User enterd user name as  : 7093348874
+2022-11-07 13:13:13,827 - OrangeHRMAutomation -INFO - User clicked on Continue button
+2022-11-07 13:13:13,913 - OrangeHRMAutomation -INFO - User enterd Password as  : Jagan@007
+2022-11-07 13:13:30,778 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-07 13:13:30,778 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-07 13:13:30,779 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-07 13:13:43,548 - OrangeHRMAutomation -INFO - Launched an application Url: using https://www.amazon.in/
+2022-11-07 13:13:45,359 - OrangeHRMAutomation -INFO - Click on SignIn
+2022-11-07 13:13:45,394 - OrangeHRMAutomation -INFO - Sign In Page displayed
+2022-11-07 13:13:45,544 - OrangeHRMAutomation -INFO - User enterd user name as  : 7093348874
+2022-11-07 13:13:46,707 - OrangeHRMAutomation -INFO - User clicked on Continue button
+2022-11-07 13:13:46,804 - OrangeHRMAutomation -INFO - User enterd Password as  : Jagan@007
+2022-11-07 13:14:01,621 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-07 13:14:01,621 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-07 13:14:01,622 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-08 11:26:59,721 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-08 11:26:59,726 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-08 11:26:59,727 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-08 11:27:11,355 - OrangeHRMAutomation -INFO - Launched an application Url: using https://www.amazon.in/
+2022-11-08 11:27:13,555 - OrangeHRMAutomation -INFO - Click on SignIn
+2022-11-08 11:27:13,647 - OrangeHRMAutomation -INFO - Sign In Page displayed
+2022-11-08 11:27:13,745 - OrangeHRMAutomation -INFO - User enterd user name as  : 7093348874
+2022-11-08 11:27:15,042 - OrangeHRMAutomation -INFO - User clicked on Continue button
+2022-11-08 11:27:15,126 - OrangeHRMAutomation -INFO - User enterd Password as  : Jagan@007
+2022-11-08 11:27:28,310 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-08 11:27:28,310 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-08 11:27:28,311 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-08 11:27:44,297 - OrangeHRMAutomation -INFO - Launched an application Url: using https://www.amazon.in/
+2022-11-08 11:27:45,866 - OrangeHRMAutomation -INFO - Click on SignIn
+2022-11-08 11:27:45,895 - OrangeHRMAutomation -INFO - Sign In Page displayed
+2022-11-08 11:27:46,000 - OrangeHRMAutomation -INFO - User enterd user name as  : 7093348874
+2022-11-08 11:27:47,285 - OrangeHRMAutomation -INFO - User clicked on Continue button
+2022-11-08 11:27:47,364 - OrangeHRMAutomation -INFO - User enterd Password as  : Jagan@007
+2022-11-08 11:28:03,100 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-08 11:28:03,101 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-08 11:28:03,102 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-08 11:28:19,094 - OrangeHRMAutomation -INFO - Launched an application Url: using https://www.amazon.in/
+2022-11-08 11:28:20,613 - OrangeHRMAutomation -INFO - Click on SignIn
+2022-11-08 11:28:20,640 - OrangeHRMAutomation -INFO - Sign In Page displayed
+2022-11-08 11:28:20,727 - OrangeHRMAutomation -INFO - User enterd user name as  : 7093348874
+2022-11-08 11:28:22,183 - OrangeHRMAutomation -INFO - User clicked on Continue button
+2022-11-08 11:28:22,253 - OrangeHRMAutomation -INFO - User enterd Password as  : Jagan@007
+2022-11-09 12:44:57,542 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-09 12:44:57,643 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-09 12:44:57,643 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-09 12:45:12,892 - OrangeHRMAutomation -INFO - Launched an application Url: using https://uat.capitalmonitor.ai/
+2022-11-09 12:45:45,769 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-09 12:45:45,773 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-09 12:45:45,773 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-09 12:45:58,698 - OrangeHRMAutomation -INFO - Launched an application Url: using https://uat.capitalmonitor.ai/
+2022-11-09 12:46:52,808 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-09 12:46:52,812 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-09 12:46:52,813 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-09 12:47:06,592 - OrangeHRMAutomation -INFO - Launched an application Url: using https://uat.capitalmonitor.ai/
+2022-11-09 12:47:43,378 - OrangeHRMAutomation -INFO - Loading config Properties file
+2022-11-09 12:47:43,385 - OrangeHRMAutomation -INFO - Using browser- chrome
+2022-11-09 12:47:43,386 - OrangeHRMAutomation -INFO - Getting chrome webdriver
+2022-11-09 12:47:59,629 - OrangeHRMAutomation -INFO - Launched an application Url: using https://uat.capitalmonitor.ai/
+2022-11-17 18:28:31,038 - Amazon -INFO - Loading config Properties file
+2022-11-17 18:28:31,109 - Amazon -INFO - Using browser- chrome
+2022-11-17 18:28:31,110 - Amazon -INFO - Getting chrome webdriver
+2022-11-17 18:28:49,670 - Amazon -INFO - Launched an application Url: using https://www.amazon.in/
+2022-11-17 18:28:53,722 - Amazon -INFO - Click on SignIn
+2022-11-17 18:28:54,129 - Amazon -INFO - Sign In Page displayed
+2022-11-17 18:28:54,233 - Amazon -INFO - User enterd user name as  : 7093348874
+2022-11-17 18:28:55,434 - Amazon -INFO - User clicked on Continue button
+2022-11-17 18:28:55,516 - Amazon -INFO - User enterd Password as  : Jagan@007
+2022-11-21 13:08:47,150 - Amazon -INFO - Loading config Properties file
+2022-11-21 13:08:47,300 - Amazon -INFO - Using browser- chrome
+2022-11-21 13:08:47,300 - Amazon -INFO - Getting chrome webdriver
+2022-11-21 13:08:59,385 - Amazon -INFO - Launched an application Url: using https://www.amazon.in/
+2022-11-21 13:09:01,910 - Amazon -INFO - Click on SignIn
+2022-11-21 13:09:01,956 - Amazon -INFO - Sign In Page displayed
+2022-11-21 13:09:02,046 - Amazon -INFO - User enterd user name as  : 7093348874
+2022-11-21 13:09:03,296 - Amazon -INFO - User clicked on Continue button
+2022-11-21 13:09:03,372 - Amazon -INFO - User enterd Password as  : Jagan@007
+2022-11-21 13:09:24,553 - Amazon -INFO - Loading config Properties file
+2022-11-21 13:09:24,554 - Amazon -INFO - Using browser- chrome
+2022-11-21 13:09:24,555 - Amazon -INFO - Getting chrome webdriver
+2022-11-21 13:09:25,045 - Amazon -INFO - Loading config Properties file
+2022-11-21 13:09:25,045 - Amazon -INFO - Using browser- chrome
+2022-11-21 13:09:25,046 - Amazon -INFO - Getting chrome webdriver
+2022-12-06 15:42:28,846 - Amazon -INFO - Loading config Properties file
+2022-12-06 15:42:28,951 - Amazon -INFO - Using browser- chrome
+2022-12-06 15:42:28,952 - Amazon -INFO - Getting chrome webdriver
+2022-12-06 15:42:42,121 - Amazon -INFO - Launched an application Url: using https://www.amazon.in/
+2022-12-06 15:42:44,310 - Amazon -INFO - Click on SignIn
+2022-12-06 15:42:44,815 - Amazon -INFO - Sign In Page displayed
+2022-12-06 15:42:44,925 - Amazon -INFO - User enterd user name as  : 7093348874
+2022-12-06 15:42:45,912 - Amazon -INFO - User clicked on Continue button
+2022-12-06 15:42:46,001 - Amazon -INFO - User enterd Password as  : Jagan@007
+2022-12-06 15:45:45,465 - Amazon -INFO - Loading config Properties file
+2022-12-06 15:45:45,517 - Amazon -INFO - Using browser- chrome
+2022-12-06 15:45:45,518 - Amazon -INFO - Getting chrome webdriver
+2022-12-06 15:45:57,152 - Amazon -INFO - Launched an application Url: using https://www.amazon.in/
+2022-12-06 15:45:59,196 - Amazon -INFO - Click on SignIn
+2022-12-06 15:45:59,236 - Amazon -INFO - Sign In Page displayed
+2022-12-06 15:45:59,344 - Amazon -INFO - User enterd user name as  : 7093348874
+2022-12-06 15:46:00,458 - Amazon -INFO - User clicked on Continue button
+2022-12-06 15:46:00,573 - Amazon -INFO - User enterd Password as  : Jagan@007
+2022-12-06 15:49:34,455 - Amazon -INFO - Loading config Properties file
+2022-12-06 15:49:34,462 - Amazon -INFO - Using browser- chrome
+2022-12-06 15:49:34,462 - Amazon -INFO - Getting chrome webdriver
+2022-12-06 15:49:44,155 - Amazon -INFO - Launched an application Url: using https://www.amazon.in/
+2022-12-06 15:49:46,793 - Amazon -INFO - Click on SignIn
+2022-12-06 15:49:46,832 - Amazon -INFO - Sign In Page displayed
+2022-12-06 15:49:46,976 - Amazon -INFO - User enterd user name as  : 7093348874
+2022-12-06 15:49:48,396 - Amazon -INFO - User clicked on Continue button
+2022-12-06 15:49:48,482 - Amazon -INFO - User enterd Password as  : Jagan@007
+2022-12-06 15:50:03,219 - Amazon -INFO - Loading config Properties file
+2022-12-06 15:50:03,220 - Amazon -INFO - Using browser- chrome
+2022-12-06 15:50:03,221 - Amazon -INFO - Getting chrome webdriver
+2022-12-06 15:50:07,950 - Amazon -INFO - Launched an application Url: using https://www.amazon.in/
+2022-12-06 15:50:09,626 - Amazon -INFO - Click on SignIn
+2022-12-06 15:50:09,662 - Amazon -INFO - Sign In Page displayed
+2022-12-06 15:50:09,780 - Amazon -INFO - User enterd user name as  : 7093348874
+2022-12-06 15:50:10,712 - Amazon -INFO - User clicked on Continue button
+2022-12-06 15:50:10,813 - Amazon -INFO - User enterd Password as  : Jagan@007
+2022-12-06 15:50:22,168 - Amazon -INFO - Loading config Properties file
+2022-12-06 15:50:22,169 - Amazon -INFO - Using browser- chrome
+2022-12-06 15:50:22,169 - Amazon -INFO - Getting chrome webdriver
+2022-12-06 15:50:25,483 - Amazon -INFO - Launched an application Url: using https://www.amazon.in/
+2022-12-06 15:50:27,331 - Amazon -INFO - Click on SignIn
+2022-12-06 15:50:27,362 - Amazon -INFO - Sign In Page displayed
+2022-12-06 15:50:27,471 - Amazon -INFO - User enterd user name as  : 7093348874
+2022-12-06 15:50:28,435 - Amazon -INFO - User clicked on Continue button
+2022-12-06 15:50:28,521 - Amazon -INFO - User enterd Password as  : Jagan@007
+2022-12-13 18:52:28,520 - Amazon -INFO - Loading config Properties file
+2022-12-13 18:52:28,611 - Amazon -INFO - Using browser- chrome
+2022-12-13 18:52:28,612 - Amazon -INFO - Getting chrome webdriver
+2022-12-13 18:52:50,495 - Amazon -INFO - Loading config Properties file
+2022-12-13 18:52:50,500 - Amazon -INFO - Using browser- chrome
+2022-12-13 18:52:50,501 - Amazon -INFO - Getting chrome webdriver
+2022-12-13 18:53:02,933 - Amazon -INFO - Launched an application Url: using https://www.amazon.in/
+2022-12-13 18:53:03,351 - Amazon -INFO - Loading config Properties file
+2022-12-13 18:53:03,351 - Amazon -INFO - Using browser- chrome
+2022-12-13 18:53:03,351 - Amazon -INFO - Getting chrome webdriver
+2022-12-13 18:53:03,413 - Amazon -INFO - Loading config Properties file
+2022-12-13 18:53:03,414 - Amazon -INFO - Using browser- chrome
+2022-12-13 18:53:03,414 - Amazon -INFO - Getting chrome webdriver
+2022-12-17 11:07:08,669 - Amazon -INFO - Loading config Properties file
+2022-12-17 11:07:08,715 - Amazon -INFO - Using browser- chrome
+2022-12-17 11:07:08,715 - Amazon -INFO - Getting chrome webdriver
+2022-12-17 11:07:22,299 - Amazon -INFO - Launched an application Url: using https://www.amazon.in/
+2022-12-17 11:07:24,089 - Amazon -INFO - Click on SignIn
+2022-12-17 11:07:24,148 - Amazon -INFO - Sign In Page displayed
+2022-12-17 11:07:24,263 - Amazon -INFO - User enterd user name as  : 7093348
+2022-12-17 11:08:19,910 - Amazon -INFO - Loading config Properties file
+2022-12-17 11:08:19,915 - Amazon -INFO - Using browser- chrome
+2022-12-17 11:08:19,915 - Amazon -INFO - Getting chrome webdriver
+2022-12-17 11:08:32,323 - Amazon -INFO - Launched an application Url: using https://www.amazon.in/
+2022-12-17 11:08:37,642 - Amazon -INFO - Click on SignIn
+2022-12-17 11:08:37,737 - Amazon -INFO - Sign In Page displayed
+2022-12-17 11:08:38,015 - Amazon -INFO - User enterd user name as  : 709334874
+2022-12-17 11:09:04,765 - Amazon -INFO - Loading config Properties file
+2022-12-17 11:09:04,826 - Amazon -INFO - Using browser- chrome
+2022-12-17 11:09:04,827 - Amazon -INFO - Getting chrome webdriver
+2022-12-17 11:09:15,616 - Amazon -INFO - Launched an application Url: using https://www.amazon.in/
+2022-12-17 11:09:22,761 - Amazon -INFO - Click on SignIn
+2022-12-17 11:09:22,800 - Amazon -INFO - Sign In Page displayed
+2022-12-17 11:09:22,898 - Amazon -INFO - User enterd user name as  : 7093348874
+2022-12-17 11:09:23,891 - Amazon -INFO - User clicked on Continue button
+2022-12-17 11:09:23,967 - Amazon -INFO - User enterd Password as  : Jagan@007
+2022-12-17 11:12:54,666 - Amazon -INFO - Loading config Properties file
+2022-12-17 11:12:54,671 - Amazon -INFO - Using browser- chrome
+2022-12-17 11:12:54,671 - Amazon -INFO - Getting chrome webdriver
+2022-12-17 11:13:08,786 - Amazon -INFO - Launched an application Url: using https://www.amazon.in/
+2022-12-17 11:13:11,803 - Amazon -INFO - Click on SignIn
+2022-12-17 11:13:11,852 - Amazon -INFO - Sign In Page displayed
+2022-12-17 11:13:11,971 - Amazon -INFO - User enterd user name as  : 7093348874
+2022-12-17 11:13:13,065 - Amazon -INFO - User clicked on Continue button
+2022-12-17 11:13:13,178 - Amazon -INFO - User enterd Password as  : Jagan@007
+2022-12-17 11:13:28,971 - Amazon -INFO - Loading config Properties file
+2022-12-17 11:13:28,972 - Amazon -INFO - Using browser- chrome
+2022-12-17 11:13:28,972 - Amazon -INFO - Getting chrome webdriver
+2022-12-17 11:13:35,029 - Amazon -INFO - Launched an application Url: using https://www.amazon.in/
+2022-12-17 11:13:36,780 - Amazon -INFO - Click on SignIn
+2022-12-17 11:13:36,807 - Amazon -INFO - Sign In Page displayed
+2022-12-17 11:13:36,906 - Amazon -INFO - User enterd user name as  : 7093348874
+2022-12-17 11:13:37,961 - Amazon -INFO - User clicked on Continue button
+2022-12-17 11:13:38,106 - Amazon -INFO - User enterd Password as  : Jagan@007
+2022-12-17 11:13:48,542 - Amazon -INFO - Loading config Properties file
+2022-12-17 11:13:48,543 - Amazon -INFO - Using browser- chrome
+2022-12-17 11:13:48,543 - Amazon -INFO - Getting chrome webdriver
+2022-12-17 11:13:54,984 - Amazon -INFO - Launched an application Url: using https://www.amazon.in/
+2022-12-17 11:13:56,059 - Amazon -INFO - Click on SignIn
+2022-12-17 11:13:56,087 - Amazon -INFO - Sign In Page displayed
+2022-12-17 11:13:56,176 - Amazon -INFO - User enterd user name as  : 7093348874
+2022-12-17 11:13:57,032 - Amazon -INFO - User clicked on Continue button
+2022-12-17 11:13:57,105 - Amazon -INFO - User enterd Password as  : Jagan@007
+2023-01-26 11:15:58,867 - Amazon -INFO - Loading config Properties file
+2023-01-26 11:15:58,908 - Amazon -INFO - Using browser- chrome
+2023-01-26 11:15:58,909 - Amazon -INFO - Getting chrome webdriver
+2023-01-26 11:18:39,749 - Amazon -INFO - Loading config Properties file
+2023-01-26 11:18:39,807 - Amazon -INFO - Using browser- chrome
+2023-01-26 11:18:39,807 - Amazon -INFO - Getting chrome webdriver
+2023-01-26 12:19:01,898 - Amazon -INFO - Loading config Properties file
+2023-01-26 12:19:01,961 - Amazon -INFO - Using browser- chrome
+2023-01-26 12:19:01,961 - Amazon -INFO - Getting chrome webdriver
+2023-01-26 12:19:11,435 - Amazon -INFO - Launched an application Url: using https://www.amazon.in/
+2023-01-26 12:19:15,783 - Amazon -INFO - Click on SignIn
+2023-01-26 12:19:15,825 - Amazon -INFO - Sign In Page displayed
+2023-01-26 12:19:15,928 - Amazon -INFO - User enterd user name as  : 7093348874
+2023-01-26 12:19:17,651 - Amazon -INFO - User clicked on Continue button
+2023-01-26 12:19:17,727 - Amazon -INFO - User enterd Password as  : Jagan@007
+2023-01-26 12:24:09,612 - Amazon -INFO - Loading config Properties file
+2023-01-26 12:24:09,617 - Amazon -INFO - Using browser- chrome
+2023-01-26 12:24:09,617 - Amazon -INFO - Getting chrome webdriver
+2023-01-26 12:24:21,328 - Amazon -INFO - Launched an application Url: using https://www.amazon.in/
+2023-01-26 12:24:27,539 - Amazon -INFO - Click on SignIn
+2023-01-26 12:24:27,584 - Amazon -INFO - Sign In Page displayed
+2023-01-26 12:24:27,681 - Amazon -INFO - User enterd user name as  : 7093348874
+2023-01-26 12:24:28,579 - Amazon -INFO - User clicked on Continue button
+2023-01-26 12:24:28,651 - Amazon -INFO - User enterd Password as  : Jagan@007
+2023-02-10 12:22:26,223 - Amazon -INFO - Loading config Properties file
+2023-02-10 12:22:26,350 - Amazon -INFO - Using browser- chrome
+2023-02-10 12:22:26,350 - Amazon -INFO - Getting chrome webdriver
+2023-02-10 12:22:39,792 - Amazon -INFO - Launched an application Url: using https://www.amazon.in/
+2023-02-10 12:22:43,377 - Amazon -INFO - Click on SignIn
+2023-02-10 12:22:43,850 - Amazon -INFO - Sign In Page displayed
+2023-02-10 12:22:44,003 - Amazon -INFO - User enterd user name as  : 7093348874
+2023-02-10 12:22:45,021 - Amazon -INFO - User clicked on Continue button
+2023-02-10 12:22:45,130 - Amazon -INFO - User enterd Password as  : Jagan@007
+2023-02-16 00:16:49,519 - Amazon -INFO - Loading config Properties file
+2023-02-16 00:16:49,558 - Amazon -INFO - Using browser- chrome
+2023-02-16 00:16:49,559 - Amazon -INFO - Getting chrome webdriver
+2023-02-16 00:21:42,215 - Amazon -INFO - Loading config Properties file
+2023-02-16 00:21:42,220 - Amazon -INFO - Using browser- chrome
+2023-02-16 00:21:42,220 - Amazon -INFO - Getting chrome webdriver
+2023-02-16 00:21:59,882 - Amazon -INFO - Launched an application Url: using https://www.amazon.in/
+2023-02-16 00:22:07,399 - Amazon -INFO - Click on SignIn
+2023-02-16 00:22:07,440 - Amazon -INFO - Sign In Page displayed
+2023-02-16 00:22:08,094 - Amazon -INFO - User enterd user name as  : 7093348874
+2023-02-16 00:22:12,954 - Amazon -INFO - User clicked on Continue button
+2023-02-16 00:22:13,301 - Amazon -INFO - User enterd Password as  : Jagan@007
